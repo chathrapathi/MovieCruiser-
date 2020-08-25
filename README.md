@@ -1,1 +1,1 @@
-# MoviCruiser
+# MovieCruiser
